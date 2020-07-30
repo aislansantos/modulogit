@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <article>
+        teste de escrita
+    </article>
 </body>
 </html>
